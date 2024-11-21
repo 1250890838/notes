@@ -57,3 +57,6 @@ fabric.properties
 *.vsix
 .history
 .ionide
+/.vs/con-notes
+/.vs
+/CMakeSettings.json
